@@ -64,7 +64,7 @@ Joshua
 
 Nick
 
-Khalil
+Khalil  https://github.com/khalilayach/game-dev2021
 
 
 Gagn
@@ -73,7 +73,7 @@ Gagn
 Ian
 
 
-Hathan    https://nfernandez197.github.io/GameDev2021/public/index.html
+Nathan F    https://nfernandez197.github.io/GameDev2021/public/index.html
 
 
 Thomas
@@ -92,7 +92,7 @@ Ian
 
 
 
-Jamie
+Jamie   https://uhhhalo.github.io/GameDev2021/public/index.html
 
 
 
