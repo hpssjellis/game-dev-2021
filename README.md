@@ -6,7 +6,9 @@ https://hpssjellis.github.io/game-dev-2021/public/index.html
 
 
 
-Ambrose
+# Grade 11
+
+Ambrose     https://vladtheimpaler32.github.io/gamedev2021/public/index.html
 
 
 Luca
@@ -56,7 +58,7 @@ Joshua
 ---
 
 
-Grade12
+# Grade 12
 
 
 
@@ -71,7 +73,7 @@ Gagn
 Ian
 
 
-Hathan
+Hathan    https://nfernandez197.github.io/GameDev2021/public/index.html
 
 
 Thomas
@@ -83,7 +85,7 @@ Gabiel
 Lee
 
 
-Angel
+Angel    https://s0urberryangel.github.io/mss-game-dev-angel/public/index.html
 
 
 Ian
@@ -94,10 +96,10 @@ Jamie
 
 
 
-Ryan
+Ryan   https://ryan-mss-19.github.io/GameDev2021/public/index.html
 
 
-James
+James    https://ferg04.github.io/game-dev-2021/public/
 
 
 
