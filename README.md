@@ -70,7 +70,7 @@ Khalil  https://khalilayach.github.io/game-dev2021/public/
 Gagnan   https://gaganb2003.github.io/GameDev2021/public/index.html
 
 
-Ian
+Ian   FIX  https://github.com/IanFeng1/Game-Ian-2021
 
 
 Nathan F    https://nfernandez197.github.io/GameDev2021/public/index.html
