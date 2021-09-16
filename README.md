@@ -64,7 +64,7 @@ Joshua
 
 Nick
 
-Khalil  https://github.com/khalilayach/game-dev2021
+Khalil  https://khalilayach.github.io/game-dev2021/public/
 
 
 Gagn
