@@ -21,7 +21,7 @@ Nathan C
 Prince
 
 
-Aaron
+Aron  https://aronhernandez14.github.io/game_dev2021/public/
 
 
 Adam
@@ -67,7 +67,7 @@ Nick
 Khalil  https://khalilayach.github.io/game-dev2021/public/
 
 
-Gagn
+Gagnon
 
 
 Ian
@@ -76,7 +76,7 @@ Ian
 Nathan F    https://nfernandez197.github.io/GameDev2021/public/index.html
 
 
-Thomas
+Thomas   https://tfrazer2245.github.io/Gamedev2021/public/
 
 
 Gabiel
