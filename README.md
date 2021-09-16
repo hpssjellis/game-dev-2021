@@ -45,7 +45,7 @@ Akash   https://raia2910.github.io/GameDev2021/public/
 Sierra
 
 
-Dante
+Dante   https://dantetaggart.github.io/Game-Dev-2021/public/index.html
 
 
 Joshua
@@ -67,7 +67,7 @@ Nick
 Khalil  https://khalilayach.github.io/game-dev2021/public/
 
 
-Gagnon
+Gagnan   https://gaganb2003.github.io/GameDev2021/public/index.html
 
 
 Ian
