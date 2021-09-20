@@ -51,6 +51,7 @@ Dante   https://dantetaggart.github.io/Game-Dev-2021/public/index.html
 Joshua
 
 
+Horatio
 
 
 
@@ -89,7 +90,7 @@ Lee
 Angel    https://s0urberryangel.github.io/mss-game-dev-angel/public/index.html
 
 
-Ian
+Ian Slack.  Using oneDrive
 
 
 
