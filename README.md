@@ -31,7 +31,7 @@ Adam
 Wyatt   https://wyderman.github.io/wyattsgamedev2021/public/
 
 
-Quinn
+Quinn   https://oragutang.github.io/game-dev-2021/public/
 
 
 Cooper   https://c0pperm0ss.github.io/GameDev2021/public/index.html
@@ -71,7 +71,7 @@ Khalil  https://khalilayach.github.io/game-dev2021/public/
 Gagnan   https://gaganb2003.github.io/GameDev2021/public/index.html
 
 
-Ian   FIX  https://github.com/IanFeng1/Game-Ian-2021
+Ian F  FIX  https://ianfeng1.github.io/Game-Ian-2021/public/index.html
 
 
 Nathan F    https://nfernandez197.github.io/GameDev2021/public/index.html
