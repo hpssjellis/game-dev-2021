@@ -31,8 +31,6 @@ Adam
 Wyatt   https://wyderman.github.io/wyattsgamedev2021/public/
 
 
-Quinn   https://oragutang.github.io/game-dev-2021/public/
-
 
 Cooper   https://c0pperm0ss.github.io/GameDev2021/public/index.html
 
@@ -82,6 +80,10 @@ Thomas   https://tfrazer2245.github.io/Gamedev2021/public/
 
 Gabiel   2020 https://gabrielkwidzinski.github.io/mss-game-dev-123/public/index.html
          2021 
+
+
+
+Quinn   https://oragutang.github.io/game-dev-2021/public/
 
 
 Lee
