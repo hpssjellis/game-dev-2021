@@ -73,7 +73,7 @@ Akash   https://raia2910.github.io/GameDev2021/public/
 
 
 
-Horatio   https://fossa88.github.io/gamedev2021/public/
+Horatio   
 
 
 
@@ -95,7 +95,7 @@ Sierra   https://sier4321.github.io/game-dev-2021-sie/public/index.html
 Dante   https://dantetaggart.github.io/Game-Dev-2021/public/index.html
 
 
-Joshua   ----
+Joshua   https://fossa88.github.io/gamedev2021/public/
 
 
 
@@ -152,7 +152,7 @@ Sierra   https://sier4321.github.io/game-dev-2021-sie/public/index.html
 Dante   https://dantetaggart.github.io/Game-Dev-2021/public/index.html
 
 
-Joshua
+Joshua   https://fossa88.github.io/gamedev2021/public/
 
 
 Horatio   https://fossa88.github.io/gamedev2021/public/
