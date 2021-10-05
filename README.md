@@ -38,7 +38,7 @@ Prince
 Aron  https://aronhernandez14.github.io/game_dev2021/public/
 
 
-Adam
+Adam   https://bluejaymission.github.io/GameDev2021/public/index.html
 
 
 Ernie ---
@@ -130,7 +130,7 @@ Prince
 Aron  https://aronhernandez14.github.io/game_dev2021/public/
 
 
-Adam
+Adam  https://bluejaymission.github.io/GameDev2021/public/index.html
 
 
 
