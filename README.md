@@ -2,6 +2,14 @@
 Game Dev work
 
 
+
+## Tell students to access this site for assignments
+
+https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
+
+
+
+
 https://hpssjellis.github.io/game-dev-2021/public/index.html
 
 
