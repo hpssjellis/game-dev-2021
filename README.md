@@ -80,7 +80,7 @@ Horatio
 Ian S ----  mark blender
 
 
-Jamie   https://uhhhalo.github.io/GameDev2021/public/index.html
+Jamie S  https://uhhhalo.github.io/GameDev2021/public/index.html
 
 
 
@@ -99,7 +99,7 @@ Joshua   https://fossa88.github.io/gamedev2021/public/
 
 
 
-James    https://ferg04.github.io/game-dev-2021/public/
+James  V  https://ferg04.github.io/game-dev-2021/public/
 
 
 
