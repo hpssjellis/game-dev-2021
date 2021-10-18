@@ -85,7 +85,7 @@ Akash   https://raia2910.github.io/GameDev2021/public/
 
 
 
-Horatio   
+Horatio   https://horatio0814.github.io/game-dev-2021-horatio/public/index.html
 
 
 
