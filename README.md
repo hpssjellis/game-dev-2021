@@ -57,8 +57,7 @@ Ernie ---
 
 
 
-Gabiel   2020 https://gabrielkwidzinski.github.io/mss-game-dev-123/public/index.html
-         2021 
+Gabiel   https://gabrielkwidzinski.github.io/mss-game-dev-123/public2/index.html
 
 
 Hoon ---  https://hoon042424.github.io/game-dev-hoon-2021/public/index.html
