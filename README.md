@@ -44,7 +44,7 @@ Nathan F    https://nfernandez197.github.io/GameDev2021/public/index.html
 Thomas   https://tfrazer2245.github.io/Gamedev2021/public/
 
 
-Prince
+Prince   https://princegrewal.github.io/game-dev-prince-2021/public/index.html
 
 
 Aron  https://aronhernandez14.github.io/game_dev2021/public/
