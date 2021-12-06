@@ -34,9 +34,6 @@ Luca   https://luca555555.github.io/game-dev-luca-2021/public/index.html
 
 
 
-Gagnan   https://gaganb2003.github.io/GameDev2021/public/index.html
-
-
 Ian F  FIX  https://ianfeng1.github.io/Game-Ian-2021/public/index.html
 
 
@@ -241,3 +238,9 @@ James    https://ferg04.github.io/game-dev-2021/public/
 what happened?
 
 Nathan C  https://5002cdn.github.io/gamedev2021/public/
+
+
+
+
+Gagnan   https://gaganb2003.github.io/GameDev2021/public/index.html
+
